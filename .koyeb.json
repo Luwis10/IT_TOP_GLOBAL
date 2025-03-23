@@ -1,0 +1,7 @@
+{
+    "root": "./",
+    "clean_urls": true,
+    "http_headers": {
+      "Cache-Control": "public, max-age=3600"
+    }
+}
