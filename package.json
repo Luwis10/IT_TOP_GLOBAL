@@ -1,0 +1,12 @@
+{
+    "name": "it_top_global",
+    "version": "1.0.0",
+    "description": "Profil Usaha IT TOP GLOBAL",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
